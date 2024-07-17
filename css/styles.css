@@ -1,0 +1,32 @@
+body {
+    background-color: #6495ED;
+}
+
+h1 {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
+.text {
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.imgs {
+    margin-top: 50px;
+}
+
+.pmtxt {
+    font-size: larger;
+}
+
+a {
+    color: whitesmoke;
+}
+
+.ptxt {
+    font-size: large;
+    width: 1000px;
+    margin-left: 50px;
+}
